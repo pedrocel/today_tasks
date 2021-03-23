@@ -1,0 +1,176 @@
+
+
+
+
+[
+    {
+        "categoria": [
+            {
+                "nome": "Massas",
+                "slug": "massas",
+                "color": null,
+                "produto-categoria": [
+                    {
+                        "id": 1,
+                        "nome": "Pizza",
+                        "descricao": "Pizzas da casa",
+                        "imagem": "https://www.aovivodebrasilia.com.br/wp-content/uploads/2020/09/pizza.jpg",
+                        "preco": 35.00,
+                        "opcionais": [
+                            {
+                                "id": 1,
+                                "nome": "Muçarela"
+                            }
+                        ],
+                        "opcional_max": 2,
+                        "adicionais": [
+                            {
+                                "id": 1,
+                                "nome": "Muçarela",
+                                "preco": 1.00
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "nome": "Peperoni Pizza",
+                        "descricao": "Pizza Tamanho G, Tomate, Cebola, Orégano",
+                        "imagem": "https://www.aovivodebrasilia.com.br/wp-content/uploads/2020/09/pizza.jpg",
+                        "preco": 235.00,
+                        "opcionais": [
+                            "Tomate", "Queijo Muçarela", "Molho", "Oregano"
+                        ],
+                        "opcional_max": 2,
+                        "adicionais": [
+                            "Tomate", "Queijo Muçarela", "Molho", "Oregano"
+                        ]
+                    }
+                ]
+            },
+            {
+                "nome": "Crepe",
+                "slug": "crepe",
+                "color": null,
+                "produto-categoria": [
+                    {
+                        "id": 3,
+                        "nome": "Crepioca",
+                        "descricao": "Crepioca de farinha de mandioca com queijo e ovo",
+                        "imagem": "https://t1.rg.ltmcdn.com/pt/images/6/2/2/crepioca_no_microondas_8226_600.jpg",
+                        "preco": 35.00,
+                        "opcionais": [
+                            "Tomate", "Queijo Muçarela", "Molho", "Oregano"
+                        ],
+                        "opcional_max": 2,
+                        "adicionais": [
+                            "Tomate", "Queijo Muçarela", "Molho", "Oregano"
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "nome": "Crepioca",
+                        "descricao": "Crepioca de farinha de mandioca com queijo e ovo",
+                        "imagem": "https://t1.rg.ltmcdn.com/pt/images/6/2/2/crepioca_no_microondas_8226_600.jpg",
+                        "preco": 35.00,
+                        "opcionais": [
+                            "Tomate", "Queijo Muçarela", "Molho", "Oregano"
+                        ],
+                        "opcional_max": 2,
+                        "adicionais": [
+                            {
+                                "nome": "Tomate", "preco": 1.00
+                            },
+                            {
+                                "nome": "Repolho", "preco": 1.00
+                            },
+                            {
+                                "nome": "Milho", "preco": 1.00
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "nome": "Crepioca",
+                        "descricao": "Crepioca de farinha de mandioca com queijo e ovo",
+                        "imagem": "https://t1.rg.ltmcdn.com/pt/images/6/2/2/crepioca_no_microondas_8226_600.jpg",
+                        "preco": 35.00,
+                        "opcionais": [
+                            "Tomate", "Queijo Muçarela", "Molho", "Oregano"
+                        ],
+                        "opcional_max": 2,
+                        "adicionais": [
+                            "Tomate", "Queijo Muçarela", "Molho", "Oregano"
+                        ]
+                    }
+
+                ]
+            },
+            {
+                "nome": "Bebidas",
+                "slug": "bebidas",
+                "color": null,
+                "produto-categoria": [
+                    {
+                        "id": 6,
+                        "nome": "Refrigerante Diet Lata",
+                        "descricao": "Refrigerante a base de adoçante diet",
+                        "imagem": "https://www.distribuidoracaue.com.br/media/catalog/product/cache/1/thumbnail/600x800/9df78eab33525d08d6e5fb8d27136e95/r/e/refrigerante-dolly-guaran_-2-l.jpg",
+                        "preco": 8.00,
+                        "opcionais": [
+                            "Sprite", "Tamarino", "Cola", "Kisuqui"
+                        ],
+                        "adicionais": [
+                            "Tomate", "Queijo Muçarela", "Molho", "Oregano"
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "nome": "Refrigerantes 1Lt",
+                        "descricao": "Refrigerante de 1 litro ",
+                        "imagem": "https://www.distribuidoracaue.com.br/media/catalog/product/cache/1/thumbnail/600x800/9df78eab33525d08d6e5fb8d27136e95/r/e/refrigerante-dolly-guaran_-2-l.jpg",
+                        "preco": 10.00,
+                        "opcionais": [
+                            "Sprite", "Tamarino", "Cola", "Kisuqui"
+                        ],
+                        "adicionais": [
+                            "Tomate", "Queijo Muçarela", "Molho", "Oregano"
+                        ]
+                    },
+                    {
+                        "id": 8,
+                        "nome": "Cerveja sem Alcool",
+                        "descricao": "Cerveja sem Alcool puro suco",
+                        "imagem": "https://www.distribuidoracaue.com.br/media/catalog/product/cache/1/thumbnail/600x800/9df78eab33525d08d6e5fb8d27136e95/r/e/refrigerante-dolly-guaran_-2-l.jpg",
+                        "preco": 5.00,
+                        "opcionais": [
+                            "Sprite", "Tamarino", "Cola", "Kisuqui"
+                        ],
+                        "adicionais": [
+                            "Tomate", "Queijo Muçarela", "Molho", "Oregano"
+                        ]
+                    }
+
+                ]
+            }
+        ],
+        "bairros": [
+            {
+                "id": 1,
+                "nome": "Ponta Verde",
+                "taxa": 5.00
+            }
+        ],
+        "tipo_pagamento": [
+            {
+                "id": 1,
+                "nome": "Cartão de Credito",
+                "troco": null
+            },
+            {
+                "id": 2,
+                "nome": "Dinheiro",
+                "troco": 200.00
+            }
+        ]
+    }
+]
